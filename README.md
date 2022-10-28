@@ -1,6 +1,6 @@
 # How to Change wifi Password?
 
-[![how to change wifi password](redd.png)](https://github.com/workvibes/how.to.change.wifi.password)
+[![how to change wifi password](redd.png)](https://computer-solved.com/how-to-change-wi-fi-password/)
 
 **The process unfolds along the following general steps.**
 
